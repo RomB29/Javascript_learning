@@ -1,0 +1,27 @@
+html, body {
+  font-family: arial;
+  min-width: 300px;
+}
+
+button {
+  border: 1px;
+  border-radius: 15px;
+  padding: 15px;
+  cursor: pointer;
+  background: #144098;
+  color: #fff;
+}
+
+* {
+  outline: 0;
+}
+
+.dark {
+  background-color: #112F41;
+  color: #ffffff;
+}
+
+.dark button {
+  background: #ffffff;
+  color: #000000;
+}

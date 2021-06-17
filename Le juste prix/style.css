@@ -1,0 +1,34 @@
+html, body {
+  background-color: #232020;
+  min-width: 500px;
+}
+
+header {
+  color: #ff7315;
+  text-align: center;
+  font-size: 3em;
+}
+
+#instructions {
+  color: white;
+}
+
+.instruction {
+  padding: 15px;
+  margin: 10px 0;
+}
+
+.plus {
+  text-align: center;
+  background-color: #f67280;
+}
+
+.moins {
+  text-align: center;
+  background-color: #ffa372;
+}
+
+.fini {
+  text-align: center;
+  background-color : #0c9463;
+}

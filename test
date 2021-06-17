@@ -1,0 +1,3 @@
+const prenom = "Romain";
+const nom    = "Bodec";
+console.log("Bonjour " + prenom + " " + nom)
